@@ -1,6 +1,6 @@
 name = 'Anzor'
 age = 25
-family = ['Madin', 'Logic', 'Magic']
+family = ['Madin', 'Logic', 'Magic', 'Asdfg']
 
 print(f'type of name: {type(name)}')
 print(f'type of age: {type(age)}')
